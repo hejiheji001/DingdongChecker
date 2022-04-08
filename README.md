@@ -31,4 +31,4 @@
 
 ### 7. 如何下载？
 #### 程序本体：https://github.com/hejiheji001/DingdongChecker/blob/main/DingdongChecker.exe?raw=true
-#### 程序启动器：https://github.com/hejiheji001/DingdongChecker/raw/main/Run.bat
+#### 程序启动器：https://github.com/hejiheji001/DingdongChecker/raw/main/Run.bat  可能需要在浏览器对链接按右键选择另存为
