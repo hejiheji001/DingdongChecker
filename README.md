@@ -23,5 +23,12 @@
 ### 4. 这个软件安全吗？
 #### 如果你都会抓包了，想必也能看出来本软件都在做什么，也就能知道除了在监控运力没有做任何多余的事情
 
-### 5. 使用之后会有什么风险？
+### 5. 为什么我家的360/腾讯管家/XX管家在说有风险？
+#### 因为直接运行bat文件本身是一件有风险的事情，但实际上这里提供的bat文件没有任何恶意操作。但也请注意不要随意运行看不懂的bat文件。
+
+### 6. 使用之后会有什么风险？
 #### 也许唯一的风险就是导致IP被封禁，但是程序并没有进行很激进的策略，因此概率很低
+
+### 7. 如何下载？
+#### 程序本体：https://github.com/hejiheji001/DingdongChecker/blob/main/DingdongChecker.exe?raw=true
+#### 程序启动器：https://github.com/hejiheji001/DingdongChecker/raw/main/Run.bat
